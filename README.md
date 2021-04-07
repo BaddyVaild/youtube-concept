@@ -1,7 +1,7 @@
-# Youtube-concept - учебный проект Glo Academy
-Проект выполнил: Александр Дмитриев
+# Youtube-concept - GLO academy training project
+Project completed by: Dmitriev Aleksandr
 
-## Используемые технологие
+## Technologies used
 - HTML
 - CSS
 - Normalize.css
