@@ -2,8 +2,8 @@
 Проект выполнил: Александр Дмитриев
 
 ## Используемые технологие
--HTML
--CSS
--Normalize.css
--SVG Sprites
+ -HTML
+ -CSS
+ -Normalize.css
+ -SVG Sprites
 
